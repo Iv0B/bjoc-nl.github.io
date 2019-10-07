@@ -57,12 +57,3 @@
 
 * Controleer alle pagina's nog op fouten
 * Voeg overal de VOLGENDE TERUG balk toe onderaan. (Hiervoor moet ook de class="full" worden toegevoegd)
-
-## Hypothesis
-
-### Account gegevens
-
-Gebruikersnaam: BJOCNL
-Wachtwoord: Beauty$ndJoy
-
-De code ```<script src="https://hypothes.is/embed.js" async></script>``` staat boven aan de index.

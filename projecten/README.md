@@ -1,1 +1,0 @@
-Hier staan alle voorgemaakte projecten die vertaald zijn.
